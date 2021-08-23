@@ -3,7 +3,7 @@ package org.bozdgn.zikirmatik
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.*
-import com.bozdogan.zikirmatik.R
+import org.bozdgn.zikirmatik.R
 
 class MainActivity : AppCompatActivity() {
     var count = 0
