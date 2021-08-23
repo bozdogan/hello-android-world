@@ -1,0 +1,2 @@
+include ':zikirmatik'
+rootProject.name = "Zikirmatik"
